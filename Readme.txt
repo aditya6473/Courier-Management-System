@@ -1,2 +1,2 @@
-A sample front-end bootstrap courier management website.
+A sample front-end courier management website.
 
